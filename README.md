@@ -1,7 +1,5 @@
 <h1 align="center">Hi there! I'm Leticia 👋</h1>
 
-<hr>
-
 <h2>👩‍💻 About Me</h2>
 
 <ul>
